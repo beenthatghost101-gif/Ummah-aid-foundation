@@ -162,12 +162,12 @@
                         <div class="mobile-option">
                             <strong>MTN Mobile Money</strong>
                             <p>+256 745 031484</p>
-                            <small>Name: Ummah Aid Foundation</small>
+                            <small>Name: kawanguzi jamil</small>
                         </div>
                         <div class="mobile-option">
                             <strong>Airtel Money</strong>
                             <p>+256 745 031484</p>
-                            <small>Name: Ummah Aid Foundation</small>
+                            <small>Name: kawanguzi jamil </small>
                         </div>
                     </div>
                 </div>
